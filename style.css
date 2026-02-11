@@ -98,7 +98,8 @@ button {
   text-align: center;
   line-height: 26px;
   margin-right: 10px;
-  background: var(--red);
+  background: #e50914;
+  color: white;
   font-weight: 900;
 }
 
